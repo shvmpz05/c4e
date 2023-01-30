@@ -3,6 +3,8 @@
 
 int py_len(char self[]);
 
-int py_reverse(char mystr[]);
+void py_reverse(char mystr[], int len);
+
+void py_reverse_v2(char mysr[], int len);
 
 #endif
