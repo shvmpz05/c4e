@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 
-void py_reverse(char mychar[], int len) {
+void py_reverse(char mychar[]) {
 
 	int i;
 	char j[len];
